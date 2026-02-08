@@ -1,0 +1,2246 @@
+--------------------------------------------------
+----Marvellous Platform survelliance System -------
+Log created at :Sat Feb  7 23:16:56 2026
+--------------------------------------------------
+
+---------------------System Report------------------------
+CPU Usage : 8.2 %
+--------------------------------------------------
+RAM Usage : 84.4 %
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 68.2 % used 
+
+Network Usage Report
+sent : 1.10 MB
+Recive : 2.85 MB
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+status : running
+Start time : 1970-01-01 05:30:00
+CPU %  : 1003.40
+Memory %  : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+status : running
+Start time : 1970-01-01 05:30:00
+CPU %  : 8.70
+Memory %  : 0.00
+--------------------------------------------------
+PID : 188
+Name : 
+Username : None
+status : stopped
+Start time : 2026-02-04 09:43:41
+CPU %  : 0.00
+Memory %  : 0.52
+--------------------------------------------------
+PID : 232
+Name : Registry
+Username : None
+status : running
+Start time : 2026-02-04 09:43:41
+CPU %  : 0.00
+Memory %  : 0.23
+--------------------------------------------------
+PID : 736
+Name : smss.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:44
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 840
+Name : csrss.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:56
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 892
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 12:17:51
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 1108
+Name : wininit.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:57
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 1184
+Name : dwm.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:18:25
+CPU %  : 6.30
+Memory %  : 0.51
+--------------------------------------------------
+PID : 1224
+Name : services.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 1292
+Name : LsaIso.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 1300
+Name : lsass.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.14
+--------------------------------------------------
+PID : 1456
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.90
+Memory %  : 0.39
+--------------------------------------------------
+PID : 1492
+Name : fontdrvhost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 1556
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.90
+Memory %  : 0.23
+--------------------------------------------------
+PID : 1564
+Name : WUDFHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.90
+Memory %  : 0.05
+--------------------------------------------------
+PID : 1680
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 1688
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 1776
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 1812
+Name : WUDFHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.40
+Memory %  : 0.03
+--------------------------------------------------
+PID : 1828
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:21
+CPU %  : 0.00
+Memory %  : 0.11
+--------------------------------------------------
+PID : 1860
+Name : WUDFHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 1960
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 1976
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 1992
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 2120
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 2128
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.11
+--------------------------------------------------
+PID : 2136
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 2144
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 2152
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.80
+Memory %  : 0.05
+--------------------------------------------------
+PID : 2216
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.30
+--------------------------------------------------
+PID : 2276
+Name : IntelCpHDCPSvc.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 2284
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 2304
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 2416
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.10
+--------------------------------------------------
+PID : 2488
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 2500
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 2564
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 2664
+Name : hp-one-agent-service.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.15
+--------------------------------------------------
+PID : 2760
+Name : WUDFHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 2884
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 3084
+Name : SynTPEnhService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 3164
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 3284
+Name : NVDisplay.Container.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 3356
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.11
+--------------------------------------------------
+PID : 3404
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 1.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 3412
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.30
+Memory %  : 0.02
+--------------------------------------------------
+PID : 3420
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 3428
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 3592
+Name : MemCompression
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 5.34
+--------------------------------------------------
+PID : 3652
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 3720
+Name : DiagsCap.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 3724
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 3736
+Name : NetworkCap.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 3744
+Name : AppHelperCap.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 3756
+Name : TouchpointAnalyticsClientService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.81
+--------------------------------------------------
+PID : 3768
+Name : SysInfoCap.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.30
+--------------------------------------------------
+PID : 3776
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:58
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 3864
+Name : dasHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:04
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 4004
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.10
+--------------------------------------------------
+PID : 4268
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.20
+--------------------------------------------------
+PID : 4520
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 4592
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:14
+CPU %  : 0.30
+Memory %  : 0.20
+--------------------------------------------------
+PID : 4656
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 4716
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 4724
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 4772
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 4820
+Name : spoolsv.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 4856
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:43:59
+CPU %  : 0.00
+Memory %  : 0.15
+--------------------------------------------------
+PID : 5012
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 5048
+Name : ELAN_MOC_Service.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 5060
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 5068
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 5084
+Name : NgcIso.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 5124
+Name : nssm.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 5132
+Name : HPCommRecovery.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 5140
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.90
+Memory %  : 0.25
+--------------------------------------------------
+PID : 5148
+Name : HPPrintScanDoctorService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 5156
+Name : ipfsvc.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 5196
+Name : OfficeClickToRun.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.17
+--------------------------------------------------
+PID : 5216
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.27
+--------------------------------------------------
+PID : 5236
+Name : OneApp.IGCC.WinService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.07
+--------------------------------------------------
+PID : 5284
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 5392
+Name : ipf_uf.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 5428
+Name : jenkins.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 5476
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:18
+CPU %  : 0.00
+Memory %  : 0.17
+--------------------------------------------------
+PID : 5532
+Name : RtkBtManServ.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 5540
+Name : mfemms.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 5552
+Name : MpDefenderCoreService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.11
+--------------------------------------------------
+PID : 5560
+Name : PEFService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.16
+--------------------------------------------------
+PID : 5568
+Name : UlaaUpdateAssistant.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.22
+--------------------------------------------------
+PID : 5576
+Name : XtuService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 5584
+Name : CptService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 5592
+Name : MsMpEng.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 1.72
+--------------------------------------------------
+PID : 5604
+Name : RtkAudUService64.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 5616
+Name : WMIRegistrationService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 5632
+Name : IntelAudioService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 5648
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 5660
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 5668
+Name : SECOMN64.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 5676
+Name : jhi_service.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 5868
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 5912
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 6032
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 6064
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:22
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 6132
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 6196
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:23
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 6288
+Name : McCSPServiceHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:08
+CPU %  : 0.00
+Memory %  : 0.20
+--------------------------------------------------
+PID : 6868
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 7312
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:14
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 7340
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 11:41:05
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 7352
+Name : WmiPrvSE.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 7376
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:56
+CPU %  : 0.00
+Memory %  : 0.07
+--------------------------------------------------
+PID : 7520
+Name : RtkAudUService64.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:48
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 7596
+Name : java.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:00
+CPU %  : 0.20
+Memory %  : 0.60
+--------------------------------------------------
+PID : 7668
+Name : conhost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:01
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 7824
+Name : MicrosoftEdgeUpdate.exe
+Username : None
+status : running
+Start time : 2026-02-07 22:33:48
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 7880
+Name : MMSSHOST.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:01
+CPU %  : 0.00
+Memory %  : 0.49
+--------------------------------------------------
+PID : 8032
+Name : mfevtps.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:01
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 8056
+Name : unsecapp.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:01
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 8148
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:45:32
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 8288
+Name : ProtectedModuleHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:01
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 8448
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:25
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 8560
+Name : servicehost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:32
+CPU %  : 2.90
+Memory %  : 0.30
+--------------------------------------------------
+PID : 9400
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:09
+CPU %  : 0.00
+Memory %  : 0.18
+--------------------------------------------------
+PID : 9752
+Name : winlogon.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:18:25
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 10204
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 15:08:19
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 10244
+Name : warp-svc.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:14
+CPU %  : 0.70
+Memory %  : 0.53
+--------------------------------------------------
+PID : 10508
+Name : AggregatorHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:16
+CPU %  : 0.00
+Memory %  : 0.11
+--------------------------------------------------
+PID : 10944
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:15
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 11208
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:16
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 11396
+Name : MfeAVSvc.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:32
+CPU %  : 0.70
+Memory %  : 0.34
+--------------------------------------------------
+PID : 11696
+Name : HPCC.Bg.BackgroundApp.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:49
+CPU %  : 0.00
+Memory %  : 0.17
+--------------------------------------------------
+PID : 12216
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:37
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 12724
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:41
+CPU %  : 0.00
+Memory %  : 0.14
+--------------------------------------------------
+PID : 12848
+Name : UserOOBEBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:37:23
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 13072
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:42
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 13196
+Name : OmenCommandCenterBackground.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:32
+CPU %  : 0.40
+Memory %  : 0.49
+--------------------------------------------------
+PID : 13508
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:48:47
+CPU %  : 0.00
+Memory %  : 0.27
+--------------------------------------------------
+PID : 13628
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:16
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 14064
+Name : taskhostw.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 14196
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:47:41
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 14672
+Name : mcapexe.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:32
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 15124
+Name : NisSrv.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:29
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 15688
+Name : SynTPEnh.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:19
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 15720
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:29
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 15804
+Name : mcshield.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:34
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 16620
+Name : SecurityHealthService.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:44:55
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 17096
+Name : SearchIndexer.exe
+Username : None
+status : running
+Start time : 2026-02-05 10:29:37
+CPU %  : 0.00
+Memory %  : 0.14
+--------------------------------------------------
+PID : 17168
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:03
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 18644
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-06 09:04:10
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 19388
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:17
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 19420
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:17
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 19612
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:49
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 19668
+Name : promecefpluginhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:19
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 20064
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:17
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 20232
+Name : dasHost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:02
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 20572
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:19
+CPU %  : 0.20
+Memory %  : 0.10
+--------------------------------------------------
+PID : 20724
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:24
+CPU %  : 0.20
+Memory %  : 0.22
+--------------------------------------------------
+PID : 20864
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:42
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 21392
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:46:25
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 21528
+Name : wps.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:19
+CPU %  : 0.00
+Memory %  : 0.14
+--------------------------------------------------
+PID : 21840
+Name : TouchpointGpuInfo.exe
+Username : None
+status : running
+Start time : 2026-02-04 10:00:07
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 21960
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:18
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 22432
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:17
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 22868
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 09:48:02
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 24248
+Name : uihost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:16
+CPU %  : 1.70
+Memory %  : 0.18
+--------------------------------------------------
+PID : 24656
+Name : HPSystemEventUtilityBackground.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:03
+CPU %  : 0.20
+Memory %  : 0.20
+--------------------------------------------------
+PID : 25736
+Name : audiodg.exe
+Username : None
+status : running
+Start time : 2026-02-07 23:14:43
+CPU %  : 0.00
+Memory %  : 0.31
+--------------------------------------------------
+PID : 25748
+Name : McUICnt.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.07
+--------------------------------------------------
+PID : 26536
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 14:59:49
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 27664
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:36:41
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 27984
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 11:56:27
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 29120
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-07 09:08:29
+CPU %  : 0.00
+Memory %  : 0.14
+--------------------------------------------------
+PID : 29436
+Name : ShellExperienceHost.exe
+Username : None
+status : stopped
+Start time : 2026-02-04 15:14:00
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 33968
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-04 11:56:29
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 34788
+Name : WidgetService.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:26
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 36692
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 20:08:10
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 37476
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:25
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 37884
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:14
+CPU %  : 2.00
+Memory %  : 1.15
+--------------------------------------------------
+PID : 38092
+Name : wpscloudsvr.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:18
+CPU %  : 0.00
+Memory %  : 0.17
+--------------------------------------------------
+PID : 40912
+Name : NVDisplay.Container.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:18:31
+CPU %  : 0.00
+Memory %  : 0.16
+--------------------------------------------------
+PID : 43152
+Name : ShellExperienceHost.exe
+Username : None
+status : stopped
+Start time : 2026-02-05 15:37:45
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 43568
+Name : BOAudioControl.exe
+Username : GOVIND\prash
+status : stopped
+Start time : 2026-02-06 20:08:09
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 44044
+Name : unsecapp.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:56
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 44072
+Name : wps.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:20
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 44320
+Name : PhoneExperienceHost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 08:41:06
+CPU %  : 0.00
+Memory %  : 0.21
+--------------------------------------------------
+PID : 44744
+Name : OverlayHelper.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 1.40
+Memory %  : 0.24
+--------------------------------------------------
+PID : 44944
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:36
+CPU %  : 0.00
+Memory %  : 0.10
+--------------------------------------------------
+PID : 45032
+Name : Copilot.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:44
+CPU %  : 19.80
+Memory %  : 0.50
+--------------------------------------------------
+PID : 45652
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:42
+CPU %  : 0.00
+Memory %  : 0.31
+--------------------------------------------------
+PID : 45680
+Name : powershell.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:05
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 45704
+Name : CrossDeviceResume.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:19
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 45844
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:42
+CPU %  : 0.00
+Memory %  : 0.12
+--------------------------------------------------
+PID : 46152
+Name : HPMediaNetwork.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:03
+CPU %  : 0.00
+Memory %  : 0.23
+--------------------------------------------------
+PID : 47440
+Name : taskhostw.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 47596
+Name : RtkAudUService64.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:28:20
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 47620
+Name : HpSystemManagement.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:55
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 47780
+Name : M365Copilot.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:15
+CPU %  : 0.00
+Memory %  : 0.22
+--------------------------------------------------
+PID : 47980
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-07 14:20:19
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 48180
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 21:32:20
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 48296
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:34
+CPU %  : 0.30
+Memory %  : 0.30
+--------------------------------------------------
+PID : 48856
+Name : SecurityHealthSystray.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:44
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 49612
+Name : conhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:35
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 50180
+Name : SearchHost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:41
+CPU %  : 0.00
+Memory %  : 0.18
+--------------------------------------------------
+PID : 50268
+Name : ApplicationFrameHost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:36:38
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 51036
+Name : Cloudflare WARP.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:45
+CPU %  : 0.00
+Memory %  : 0.16
+--------------------------------------------------
+PID : 52340
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 52356
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:38
+CPU %  : 0.00
+Memory %  : 0.01
+--------------------------------------------------
+PID : 53052
+Name : OmenInstallMonitor.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 53596
+Name : powershell.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:28
+CPU %  : 0.00
+Memory %  : 0.07
+--------------------------------------------------
+PID : 53884
+Name : BridgeCommunication.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 08:42:07
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 54260
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:28:20
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 54952
+Name : SECOCL64.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:17
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 55144
+Name : ShellExperienceHost.exe
+Username : None
+status : stopped
+Start time : 2026-02-06 12:57:02
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 55148
+Name : promecefpluginhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:20
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 56524
+Name : StartMenuExperienceHost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:25
+CPU %  : 0.00
+Memory %  : 0.22
+--------------------------------------------------
+PID : 56612
+Name : conhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:28
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 56800
+Name : explorer.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.20
+Memory %  : 1.67
+--------------------------------------------------
+PID : 56964
+Name : SystemSettings.exe
+Username : GOVIND\prash
+status : stopped
+Start time : 2026-02-06 19:36:39
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 56980
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:16
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 57264
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:13
+CPU %  : 3.10
+Memory %  : 0.99
+--------------------------------------------------
+PID : 57636
+Name : conhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:17
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 58020
+Name : fontdrvhost.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:18:25
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 58260
+Name : SystemOptimizer.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 58524
+Name : HP.HPX.exe
+Username : GOVIND\prash
+status : stopped
+Start time : 2026-02-06 19:30:42
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 59000
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:42
+CPU %  : 0.00
+Memory %  : 0.12
+--------------------------------------------------
+PID : 59540
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 15:07:37
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 60008
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:42
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 60404
+Name : wpscenter.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:29:30
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 60412
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:18
+CPU %  : 0.00
+Memory %  : 0.26
+--------------------------------------------------
+PID : 60528
+Name : csrss.exe
+Username : None
+status : running
+Start time : 2026-02-06 19:18:25
+CPU %  : 0.70
+Memory %  : 0.02
+--------------------------------------------------
+PID : 60544
+Name : sihost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:17
+CPU %  : 0.00
+Memory %  : 0.18
+--------------------------------------------------
+PID : 61500
+Name : ctfmon.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:28
+CPU %  : 0.00
+Memory %  : 0.16
+--------------------------------------------------
+PID : 61840
+Name : svchost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:24
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 62192
+Name : svchost.exe
+Username : None
+status : running
+Start time : 2026-02-06 15:11:36
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 62348
+Name : DesktopExtension.exe
+Username : None
+status : stopped
+Start time : 2026-02-06 14:22:45
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 62400
+Name : ipf_helper.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:28:16
+CPU %  : 0.30
+Memory %  : 0.02
+--------------------------------------------------
+PID : 62460
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:30:16
+CPU %  : 0.00
+Memory %  : 0.13
+--------------------------------------------------
+PID : 62832
+Name : Code.exe
+Username : GOVIND\prash
+status : stopped
+Start time : 2026-02-07 17:30:22
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 64768
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 08:41:16
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 65788
+Name : pet.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:27
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 65860
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:37
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 66360
+Name : HPSystemEventUtilityHost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 23:07:24
+CPU %  : 0.00
+Memory %  : 0.37
+--------------------------------------------------
+PID : 66496
+Name : powershell.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:43
+CPU %  : 0.00
+Memory %  : 0.29
+--------------------------------------------------
+PID : 66528
+Name : AppActions.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-06 19:39:04
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 66936
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:15
+CPU %  : 5.50
+Memory %  : 3.81
+--------------------------------------------------
+PID : 68392
+Name : LockApp.exe
+Username : GOVIND\prash
+status : stopped
+Start time : 2026-02-07 17:48:46
+CPU %  : 0.00
+Memory %  : 0.10
+--------------------------------------------------
+PID : 68976
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:36
+CPU %  : 0.00
+Memory %  : 0.14
+--------------------------------------------------
+PID : 69008
+Name : Widgets.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:32
+CPU %  : 0.00
+Memory %  : 0.26
+--------------------------------------------------
+PID : 69364
+Name : dllhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 13:50:52
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 69476
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:38
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 69752
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:29
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 70040
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:27
+CPU %  : 0.00
+Memory %  : 0.08
+--------------------------------------------------
+PID : 70548
+Name : taskhostw.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 13:50:52
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 70936
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:14
+CPU %  : 0.20
+Memory %  : 0.15
+--------------------------------------------------
+PID : 71284
+Name : WindowsTerminal.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:25:35
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 71456
+Name : powershell.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:35
+CPU %  : 0.00
+Memory %  : 0.06
+--------------------------------------------------
+PID : 71864
+Name : conhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:43
+CPU %  : 0.00
+Memory %  : 0.02
+--------------------------------------------------
+PID : 71884
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:36
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 72084
+Name : OneDrive.Sync.Service.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:58
+CPU %  : 0.00
+Memory %  : 0.09
+--------------------------------------------------
+PID : 72088
+Name : conhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:05
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 72104
+Name : powershell.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:25:36
+CPU %  : 0.00
+Memory %  : 0.05
+--------------------------------------------------
+PID : 73280
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:50
+CPU %  : 0.00
+Memory %  : 5.13
+--------------------------------------------------
+PID : 73332
+Name : msedgewebview2.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:37
+CPU %  : 0.00
+Memory %  : 0.07
+--------------------------------------------------
+PID : 74188
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:14
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 74540
+Name : OpenConsole.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:25:35
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 75964
+Name : ms-teamsupdate.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:28:52
+CPU %  : 0.00
+Memory %  : 0.04
+--------------------------------------------------
+PID : 76396
+Name : expressvpnd.exe
+Username : None
+status : running
+Start time : 2026-02-07 17:30:40
+CPU %  : 0.00
+Memory %  : 0.11
+--------------------------------------------------
+PID : 76524
+Name : ShellHost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 18:14:31
+CPU %  : 0.00
+Memory %  : 0.07
+--------------------------------------------------
+PID : 76608
+Name : conhost.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:42:27
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 76880
+Name : conhost.exe
+Username : None
+status : running
+Start time : 2026-02-07 17:30:40
+CPU %  : 0.20
+Memory %  : 0.01
+--------------------------------------------------
+PID : 76984
+Name : ShellExperienceHost.exe
+Username : GOVIND\prash
+status : stopped
+Start time : 2026-02-07 12:40:06
+CPU %  : 0.00
+Memory %  : 0.00
+--------------------------------------------------
+PID : 77336
+Name : RuntimeBroker.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 12:40:07
+CPU %  : 0.00
+Memory %  : 0.03
+--------------------------------------------------
+PID : 78988
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:20
+CPU %  : 0.00
+Memory %  : 0.31
+--------------------------------------------------
+PID : 78992
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:20
+CPU %  : 0.20
+Memory %  : 0.26
+--------------------------------------------------
+PID : 80640
+Name : python.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 23:14:38
+CPU %  : 86.20
+Memory %  : 0.29
+--------------------------------------------------
+PID : 80680
+Name : Code.exe
+Username : GOVIND\prash
+status : running
+Start time : 2026-02-07 17:31:21
+CPU %  : 0.10
+Memory %  : 1.61
+--------------------------------------------------
+--------------------------------------------------
+---------------End of the Log File----------------------------
+--------------------------------------------------

@@ -32,7 +32,7 @@ def FindDuplicate(DirectoryName ="Marvellous"):
     
     Duplicate = {}
 
-    for Foldername ,subFoldername , FileName in os.walk(DirectoryName):
+    for Foldername , subFoldername , FileName in os.walk(DirectoryName):
         for fname in FileName:
             fname = os.path.join(Foldername,fname)
             Checksum = CalculateCheckSum(fname)
@@ -76,7 +76,7 @@ def DeleteDuplicate(Path ="Marvellous"):
     print("Total Deleted File :", Cnt)
     
 def main():
-
+   
     DeleteDuplicate()
  
 if __name__=="__main__":

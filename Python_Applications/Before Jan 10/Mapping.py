@@ -3,14 +3,4 @@ print(type(Information))
 print(Information)
 
 print(Information["City"])
-
-
-
-
-
-
-
-
-
-
-
+ 

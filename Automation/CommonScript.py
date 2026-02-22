@@ -1,0 +1,70 @@
+
+import sys
+import os
+import time
+import schedule
+
+
+def fun(dirName):
+    pass
+
+        
+def main():
+
+    Border = "-" *50
+    print(Border)
+    print("______________________Marvellous Data Shield  System_________________________")
+    print(Border)
+    
+    
+    if(len(sys.argv) == 2):
+        if(sys.argv[1]== "--h" or sys.argv[1] =="--H"):
+            print("This script is used to :")
+            print("1: Takes auto backup at given time  ")
+            print("2: Backup only New and Updated Files")
+            print("3: Create an archieve of the backup perodically")
+            
+
+        elif(sys.argv[1]== "--u" or sys.argv[1] =="--U"):
+            print("Use the aurtomation script as")
+            print("ScriptName.py Timeintervel SourceDirectory")
+            print("TimeIntervel : The time in minutes for perodic scheduling")
+            print("SourceDirectory : Name of the directory to create backed up files")
+
+
+        else:
+            print("Unable to process as there is non such option")
+            print("Please use --h or --u to get more details")
+
+
+    # Python Demo.py 5 Data
+
+    elif(len(sys.argv) == 3):
+        print("Inside Projects Logic")
+        print("Time Intervel :",sys.argv[1])
+        print("SourceDirectory  :",sys.argv[2])
+        
+        # Apply the Scheduler
+        schedule.every(int(sys.argv[1])).minutes.do(fun,sys.argv[2])
+
+        print("Data Shield System started Successfully")
+        print("Time interval in minutes :",sys.argv[1])
+        print("Press Ctrl + C to stop the execution")
+
+        # Wait till abort
+        while True:
+            schedule.run_pending()
+            time.sleep(1)
+
+    else:
+        print("Invalid Number of CommandLine Arguments")
+        print("Unable to process as there is no such option")
+        print("Please use --h or --u to get more details")
+
+
+    print(Border)
+    print("_________________________ThankYou for Using our Script__________________________________")
+    print(Border)
+    
+if __name__=="__main__":
+    main()
